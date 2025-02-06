@@ -31,7 +31,7 @@ Documents will be in the [`docs`](./docs/README.md) folder.
 
 Working group members, in alphabetical order, are:
 
-* Andrea Frittoli, IBM (lead)
+* [Andrea Frittoli](https://github.com/afrittoli), IBM (lead)
 * Andrey Talman, Meta
 * Ankit Patel, NVIDIA
 * Chen Zeng, Huawei
