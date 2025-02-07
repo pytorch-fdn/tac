@@ -24,7 +24,7 @@ Author: PyTorch Technical Advisory Committee
 
 [Submission](#submission)
 
-[Review Applications Approve/Deny](#review-applications-approve-deny))
+[Review Applications](#review-applications))
 
 [Project Onboarding](#project-onboarding)
 
@@ -101,7 +101,7 @@ The status of a project in the Ecosystem is either active or retired. Only activ
 * Project owners should also attach a PowerPoint presentation on their project following the prescribed format outlined in the template presentation provided in the ecosystem repository.    
 * (Optionally) record a video not to exceed 15 minutes presenting the project and why it should be accepted into the PyTorch ecosystem.  If you do this, add a link to this video in your issue submission.  
 
-### Review Applications (Approve/Deny) 
+### Review Applications
 
 * Issues are reviewed according to the methodology described in the readme in the github repository [https://github.com/pytorch-fdn/ecosystem/tree/main](https://github.com/pytorch-fdn/ecosystem/tree/main)   
 * Projects are voted on by representatives of the Ecosystem working group as simple majority.  
