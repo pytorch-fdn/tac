@@ -42,7 +42,7 @@ Author: PyTorch Technical Advisory Committee
 
 ## 
 
-## Introduction {#introduction}
+## [Introduction] (#introduction)
 
 The PyTorch Foundation has a community-focused mindset and has worked to help elevate projects that leverage or relate to PyTorch. As a part of this effort, the PyTorch Foundation created the PyTorch Ecosystem to showcase projects that could be of interest to the community and represent projects that are mature and healthy, standing out in their respective domain. 
 
