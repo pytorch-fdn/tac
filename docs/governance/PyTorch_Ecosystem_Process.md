@@ -14,7 +14,7 @@ Author: PyTorch Technical Advisory Committee
 
 [Introduction](#introduction)
 
-[Ecosystem Purpose, Goals, Expectations](#ecosystem-purpose,-goals,-expectations)
+[Ecosystem Purpose, Goals, Expectations](#ecosystem-purpose-goals-expectations)
 
 [Ecosystem Projects Requirements](#ecosystem-projects-requirements)
 
@@ -24,7 +24,7 @@ Author: PyTorch Technical Advisory Committee
 
 [Submission](#submission)
 
-[Review Applications (Approve/Deny)](#review-applications-\(approve/deny\))
+[Review Applications)](#review-applications))
 
 [Project Onboarding](#project-onboarding)
 
@@ -34,21 +34,19 @@ Author: PyTorch Technical Advisory Committee
 
 [Ecosystem Benefits](#ecosystem-benefits)
 
-[Feedback](#heading=h.lnxbz9)
-
 [Maintaining this Document](#maintaining-this-document)
 
 [Publishing this Document](#publishing-this-document)
 
 ## 
 
-## Introduction {#introduction}
+## Introduction 
 
 The PyTorch Foundation has a community-focused mindset and has worked to help elevate projects that leverage or relate to PyTorch. As a part of this effort, the PyTorch Foundation created the PyTorch Ecosystem to showcase projects that could be of interest to the community and represent projects that are mature and healthy, standing out in their respective domain. 
 
 To keep the PyTorch Ecosystem both relevant and useful, projects need to be approved when they meet the specified requirements and then retired when they no longer meet those requirements.  The responsibility to approve, classify, monitor and retire projects has been assigned to the PyTorch Technical Advisory Committee (TAC.)  This document outlines a process for reviewing, approving or denying, classifying and periodically validating existing projects to ensure that the Ecosystem remains a valuable and trusted resource for the community. 
 
-## Ecosystem Purpose, Goals, Expectations {#ecosystem-purpose,-goals,-expectations}
+## Ecosystem Purpose, Goals, Expectations 
 
 * Provide a selection of proven, stable and high-value tools for users to locate easily to solve problems, reduce development time, and enhance the PyTorch experience.  
 * Projects that are part of the ecosystem have a certain level of expected quality and maturity.   
@@ -56,7 +54,7 @@ To keep the PyTorch Ecosystem both relevant and useful, projects need to be appr
 * Perform periodic reviews to retire projects that no longer meet the requirements.  
 * Raise awareness in the PyTorch Community for innovation and opportunities for collaboration
 
-## Ecosystem Projects Requirements {#ecosystem-projects-requirements}
+## Ecosystem Projects Requirements
 
 When tool submissions are considered for the PyTorch ecosystem, the TAC considers factors they believe are essential for community adoption. These criteria include the following:
 
@@ -91,26 +89,26 @@ When tool submissions are considered for the PyTorch ecosystem, the TAC consider
 
     
 
-## Ecosystem Project Statuses  {#ecosystem-project-statuses}
+## Ecosystem Project Statuses 
 
 The status of a project in the Ecosystem is either active or retired. Only active projects are displayed by default in the PyTorch Landscape.  
 
-## Ecosystem Project Process {#ecosystem-project-process}
+## Ecosystem Project Process 
 
-### Submission {#submission}
+### Submission
 
 * Open a PR in the PyTorch Ecosystem Repository.  [https://github.com/pytorch-fdn/ecosystem/tree/main](https://github.com/pytorch-fdn/ecosystem/tree/main).  Instructions are in the readme.      
 * Project owners should also attach a PowerPoint presentation on their project following the prescribed format outlined in the template presentation provided in the ecosystem repository.    
 * (Optionally) record a video not to exceed 15 minutes presenting the project and why it should be accepted into the PyTorch ecosystem.  If you do this, add a link to this video in your issue submission.  
 
-### Review Applications (Approve/Deny) {#review-applications-(approve/deny)}
+### Review Applications 
 
 * Issues are reviewed according to the methodology described in the readme in the github repository [https://github.com/pytorch-fdn/ecosystem/tree/main](https://github.com/pytorch-fdn/ecosystem/tree/main)   
 * Projects are voted on by representatives of the Ecosystem working group as simple majority.  
 * Projects are approved when more than 50% of the members approve. Projects are rejected otherwise. 
 
 
-### Project Onboarding {#project-onboarding}
+### Project Onboarding 
 
 Once a project is approved, the 
 
@@ -131,15 +129,15 @@ Once a project is approved, the
 Project owners that make measurable and reasonable improvements to their projects can resbumit them after 3 months for another review.
 
 
-### Periodic Review {#periodic-review}
+### Periodic Review 
 
 Every 6 months all projects are reviewed by the PyTorch community leadership to ensure that they still meet the Ecosystem Project Requirements. Project owners will be notified why they no longer qualify to be an Ecosystem project and will have 30 days to implement the necessary changes. If the project owners do not implement the changes or do not respond to requests, then the project will be immediately retired and will no longer be a part of the Ecosystem and listed in an active state in the PyTorch Landscape.
 
-### Project Offboarding {#project-offboarding}
+### Project Offboarding
 
 Project owners will be notified that their project has been retired and they will be asked to remove any references to being a part of the PyTorch Ecosystem in their Github repository or on their project website.
 
-### Ecosystem Benefits {#ecosystem-benefits}
+### Ecosystem Benefits
 
 * Refer to the project as a PyTorch Ecosystem project, with the right, subject to applicable trademark usage guidelines, to display the PyTorch logo on the project’s code repository.
 
@@ -147,11 +145,11 @@ Project owners will be notified that their project has been retired and they wil
 
 * Increased awareness and visibility of the new tool through publication into the PyTorch Ecosystem 
 
-## Maintaining this Document {#maintaining-this-document}
+## Maintaining this Document 
 
 Once approved, the TAC is responsible for maintaining the Project Lifecycle Document. To update the document, the TAC must vote in favor of the proposed changes
 
-## Publishing this Document {#publishing-this-document}
+## Publishing this Document
 
 The most current version of this document is available TAC github repository. [https://github.com/pytorch-fdn/tac/tree/main/docs/governance](https://github.com/pytorch-fdn/tac/tree/main/docs/governance) 
 
