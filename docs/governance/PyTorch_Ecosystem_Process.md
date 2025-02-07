@@ -24,7 +24,7 @@ Author: PyTorch Technical Advisory Committee
 
 [Submission](#submission)
 
-[Review Applications)](#review-applications))
+[Review Applications)](#review-applications)
 
 [Project Onboarding](#project-onboarding)
 
