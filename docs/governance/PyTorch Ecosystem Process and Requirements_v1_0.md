@@ -48,7 +48,7 @@ The PyTorch Foundation has a community-focused mindset and has worked to help el
 
 To keep the PyTorch Ecosystem both relevant and useful, projects need to be approved when they meet the specified requirements and then retired when they no longer meet those requirements.  The responsibility to approve, classify, monitor and retire projects has been assigned to the PyTorch Technical Advisory Committee (TAC.)  This document outlines a process for reviewing, approving or denying, classifying and periodically validating existing projects to ensure that the Ecosystem remains a valuable and trusted resource for the community. 
 
-## Ecosystem Purpose, Goals, Expectations {#ecosystem-purpose,-goals,-expectations}
+## Ecosystem Purpose, Goals, Expectations 
 
 * Provide a selection of proven, stable and high-value tools for users to locate easily to solve problems, reduce development time, and enhance the PyTorch experience.  
 * Projects that are part of the ecosystem have a certain level of expected quality and maturity.   
@@ -56,7 +56,7 @@ To keep the PyTorch Ecosystem both relevant and useful, projects need to be appr
 * Perform periodic reviews to retire projects that no longer meet the requirements.  
 * Raise awareness in the PyTorch Community for innovation and opportunities for collaboration
 
-## Ecosystem Projects Requirements {#ecosystem-projects-requirements}
+## Ecosystem Projects Requirements
 
 When tool submissions are considered for the PyTorch ecosystem, the TAC considers factors they believe are essential for community adoption. These criteria include the following:
 
