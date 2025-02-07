@@ -24,7 +24,7 @@ Author: PyTorch Technical Advisory Committee
 
 [Submission](#submission)
 
-[Review Applications (Approve/Deny)](#review-applications))
+[Review Applications Approve/Deny](#review-applications-approve-deny))
 
 [Project Onboarding](#project-onboarding)
 
@@ -33,8 +33,6 @@ Author: PyTorch Technical Advisory Committee
 [Project Offboarding](#project-offboarding)
 
 [Ecosystem Benefits](#ecosystem-benefits)
-
-[Feedback](#feedback)
 
 [Maintaining this Document](#maintaining-this-document)
 
