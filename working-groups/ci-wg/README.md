@@ -31,7 +31,5 @@ Current working group members, in alphabetical order, are:
 
 Reach out to Nancy Rausch on the [PyTorch slack](https://pytorch.org/resources/) if you have an interest in joining this working group. 
 
-## Meetings
-The working group meetings weekly. 
 
 
