@@ -7,7 +7,7 @@ Working groups are open to the community.  See the specific working group README
 
 | Name | Purpose  |
 | -----|-------|
-| [CI](./ci-wg/README.md) | Maintain and improve the existing CI infrastructure |
 | [Multi Cloud](./multi-cloud-wg/README.md) | Architect a new multi-cloud CI infrastructure|
 | [Ecosystem](./ecosystem/README.md) | Review, approve, and manage the PyTorch Ecosystem of 3rd party tools |
+| [CI](./ci-wg/README.md) | Maintain and improve the existing CI infrastructure |
 
