@@ -12,7 +12,7 @@ To join, please:
 * Join the meetings and Slack discussions on a regular basis
 
 
-## Review process
+## Meetings
 * Meetings are held twice a month.
 * Review discussions are part of the [PyTorch Ecosystem](https://github.com/pytorch-fdn/ecosystem).
 
