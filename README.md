@@ -7,7 +7,7 @@ This repo contains meeting details, working groups project information, and proc
 
 * The PyTorch TAC meetings are open to everyone.  You can see the calendar and receive an invite to [join the meetings via zoom here](https://zoom-lfx.platform.linuxfoundation.org/meeting/99880407255?password=35e75f4d-474c-48ec-ae73-2add1f05bd4f). 
 * The TAC meets the second Tuesday of every month at 10am EST.
-* Meetings are recorded. Notes are recordings are [publicly available](https://docs.google.com/document/d/1bOdv046NPEFpLrYdl_VcOm2GzF1CzYF0JQWGmR0TP-c/edit?usp=sharing).
+* Meetings are recorded. Notes are recordings are [publicly available](https://lists.pytorch.org/g/tac/messages).
 
 ## Communication
 
