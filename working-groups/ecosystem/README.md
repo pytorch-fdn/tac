@@ -8,7 +8,6 @@ New members are welcome! Membership to this Working Group is open to public and 
 To join, please:
 
 * Reach out to Nancy Rausch on the [PyTorch slack](https://pytorch.org/resources/)
-* Make a PR adding your name to the list of members
 * Read and familiarize yourself with the [PyTorch Ecosystem Documentation](https://github.com/pytorch-fdn/ecosystem)
 * Join the meetings and Slack discussions on a regular basis
 
