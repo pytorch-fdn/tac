@@ -1,7 +1,5 @@
 # PyTorch Technical Advisory Committee (TAC)
-The PyTorch Technical Advisory Committee (TAC) serves as the technical governing body for the PyTorch Foundation. It oversees technical standards, best practices, and technical vision for the Foundation. The TAC helps to manage the open source ecosystem and contributes to the establishment of standardized best practices.
-
-This repo contains meeting details, working groups project information, and process documents for the PyTorch TAC.
+The PyTorch Technical Advisory Committee (TAC) serves as the technical governing body for the PyTorch Foundation. It oversees technical standards, best practices, and technical vision for the Foundation. This repo contains meeting details, working groups project information, and process documents for the PyTorch TAC.
 
 ## Meetings
 
