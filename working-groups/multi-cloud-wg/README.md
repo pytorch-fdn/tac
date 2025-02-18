@@ -54,7 +54,7 @@ Working group members, in alphabetical order, are:
 New members are welcome! Membership to this Working Group is open to public and self-declared.
 To join, please:
 
-* Reach out to Nanchy Rausch and/or Andrea Frittoli on the [PyTorch slack](https://pytorch.org/resources/)
+* Reach out to Andrea Frittoli on the [PyTorch slack](https://pytorch.org/resources/)
 * Make a PR adding your name to the list of members
 * Read the [available documentation](#reference-material)
 * Join the [meetings](#meetings) on a regular basis!
@@ -62,12 +62,12 @@ To join, please:
 ## Meetings
 
 The Working Groups meets every week on Thursday at 5pm UTC.
-Please reach out to Nanchy Rausch to get an invite.
+Please reach out to Andrea Frittoli to get an invite.
 Meetings are recorded. Notes are recordings are [publicly available](https://docs.google.com/document/d/1bOdv046NPEFpLrYdl_VcOm2GzF1CzYF0JQWGmR0TP-c/edit?usp=sharing).
 
 ## Communication
 
-* Slack: Reach out to Nanchy Rausch and/or Andrea Frittoli on the [PyTorch slack](https://pytorch.org/resources/) to get an invite to the WG channel
+* Slack: Reach out to Andrea Frittoli on the [PyTorch slack](https://pytorch.org/resources/) to get an invite to the WG channel
 
 ## Reference Material
 
