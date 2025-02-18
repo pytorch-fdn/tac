@@ -3,14 +3,7 @@
 ## Overview
 The Ecosystem Working group reviews and maintains the [PyTorch Ecosystem](https://github.com/pytorch-fdn/ecosystem).
 
-
-## Members
-
-Working group members, in alphabetical order, are:
-
-
-
-### Joining the Working Group
+## Joining the Working Group
 New members are welcome! Membership to this Working Group is open to public and self-declared.
 To join, please:
 
