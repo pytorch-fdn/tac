@@ -9,5 +9,5 @@ The PyTorch Technical Advisory Committee (TAC) serves as the technical governing
 
 ## Communication
 
-* Slack: Join the public PyTorch TAC Slack channel [PyTorch slack](https://pytorch.org/resources/)
+* Slack: Join the public PyTorch TAC Slack channel [PyTorch slack](https://pytorch.slack.com/archives/C0808K2MN95)
 * Public mailing list: Join the [public mailing list](https://lists.pytorch.org/g/tac)
