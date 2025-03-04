@@ -16,9 +16,10 @@ Current working group members, in alphabetical order, are:
 * Jean Schmidt, Meta
 * Jeremy Eder, Red Hat
 * Mohan Gandhi, Amazon
-* Nancy Rausch, Linux Foundation
+* Nancy Rausch, Linux Foundation (Lead)
 * Nikita Shulga, Meta
 * Piotr Bialecki, NVIDIA
+* Rudy Giger, Linux Foundation
 * Thanh Ha, Linux Foundation
 * Wei Wang, NVIDIA
 * Xiao Wang, NVIDIA
