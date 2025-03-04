@@ -15,8 +15,6 @@ Current working group members, in alphabetical order, are:
 * Elias Uriegas, Meta
 * Jean Schmidt, Meta
 * Jeremy Eder, Red Hat
-* Jessica Gonzalez, Linux Foundation
-* Mathaix Z, IBM
 * Mohan Gandhi, Amazon
 * Nancy Rausch, Linux Foundation
 * Nikita Shulga, Meta
