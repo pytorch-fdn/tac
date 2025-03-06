@@ -11,3 +11,6 @@ The PyTorch Technical Advisory Committee (TAC) serves as the technical governing
 
 * Slack: Join the public PyTorch TAC Slack channel [PyTorch slack](https://pytorch.slack.com/archives/C0808K2MN95)
 * Public mailing list: Join the [public mailing list](https://lists.pytorch.org/g/tac)
+
+## Working Groups
+* A working group (WG) under the Technical Advisory Council (TAC) is a group with a shared interest in advancing a specific area of knowledge, learning, or technology related to the mission of the PyTorch Foundation where members cooperate to affect or to produce solutions within a specific area. The TAC supports multiple technical working groups.  Please see the [workiong groups](https://github.com/pytorch-fdn/tac/tree/main/working-groups) page for details about specific working groups, and how to get involved.  
