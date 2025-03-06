@@ -13,4 +13,4 @@ The PyTorch Technical Advisory Committee (TAC) serves as the technical governing
 * Public mailing list: Join the [public mailing list](https://lists.pytorch.org/g/tac)
 
 ## Working Groups
-* The TAC supports multiple technical working groups.  Please see the [workiong groups](https://github.com/pytorch-fdn/tac/tree/main/working-groups) page for details about specific working groups, and how to get involved.  
+* The TAC supports multiple technical working groups.  Please see the [working groups](https://github.com/pytorch-fdn/tac/tree/main/working-groups) page for details about specific working groups, and how to get involved.  
