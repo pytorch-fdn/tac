@@ -43,9 +43,10 @@ Working group members, in alphabetical order, are:
 * Jessica Gonzalez, Linux Foundation
 * Jitendra Patil, Intel
 * Kiuk Chung, Google
-* Nancy Rausch, Linux Foundation
+* Balaji Ethirajulu, Linux Foundation
 * Scott Suchyta, NVIDIA
 * Thanh Ha, Linux Foundation
+* Regina Nkenchor, Linux Foundation
 * Zain Rizvi, Meta
 * Zhe Zhang, NVIDIA
 
