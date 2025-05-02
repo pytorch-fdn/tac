@@ -16,11 +16,11 @@ Current working group members, in alphabetical order, are:
 * Jean Schmidt, Meta
 * Jeremy Eder, Red Hat
 * Mohan Gandhi, Amazon
-* Nancy Rausch, Linux Foundation (Lead)
+* Balaji Ethirajulu, Linux Foundation
 * Nikita Shulga, Meta
 * Piotr Bialecki, NVIDIA
-* Rudy Giger, Linux Foundation
-* Thanh Ha, Linux Foundation
+* Rudy Giger, Linux Foundation (Lead)
+* Thanh Ha, Linux Foundation (Lead)
 * Wei Wang, NVIDIA
 * Xiao Wang, NVIDIA
 * Zain Rizvi, Meta
@@ -28,7 +28,8 @@ Current working group members, in alphabetical order, are:
 
 ### Joining the Working Group
 
-Reach out to Nancy Rausch on the [PyTorch slack](https://pytorch.org/resources/) if you have an interest in joining this working group. 
+If you're interested in joining this working group, reach out via [PyTorch Slack](https://pytorch.org/resources/) to request an invite and join the channel.
+
 
 
 
