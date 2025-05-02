@@ -17,7 +17,7 @@ To join, please:
 * Review discussions are part of the [PyTorch Ecosystem](https://github.com/pytorch-fdn/ecosystem).
 
 ## Communication
-* Slack: Reach out to Nancy Rausch on the [PyTorch slack](https://pytorch.org/resources/) to get an invite to the channel
+* Slack: Reach out via [PyTorch Slack](https://pytorch.org/resources/) to request an invite and join the channel.
 * GitHub:  Discussions are part of the [PyTorch Ecosystem project board](https://github.com/orgs/pytorch-fdn/projects/6/views/1)
 
 ## Reference Material
