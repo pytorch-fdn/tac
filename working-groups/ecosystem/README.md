@@ -7,7 +7,7 @@ The Ecosystem Working group reviews and maintains the [PyTorch Ecosystem](https:
 New members are welcome! Membership to this Working Group is open to public and self-declared.
 To join, please:
 
-* Reach out to Balaji Ethirajulu on the [PyTorch slack](https://pytorch.org/resources/)
+* Reach out to [support@pytorch.org](mailto:support@pytorch.org)
 * Read and familiarize yourself with the [PyTorch Ecosystem Documentation](https://github.com/pytorch-fdn/ecosystem)
 * Join the meetings and Slack discussions on a regular basis
 
