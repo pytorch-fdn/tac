@@ -1,0 +1,90 @@
+name: "Tuple OSS Request"
+description: "Apply for free Tuple access for your open source team"
+title: "Tuple OSS request: <project/repo name>"
+labels: ["tac:review", "tuple-oss"]
+assignees:
+  - your-github-handle
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Open source teams get Tuple for free (forever) 🎉
+        Maintaining open source projects is hard—doing it alone is even harder. Tuple offers free access to OSS teams that qualify.
+
+        Please complete this form so we can review your request.
+
+  - type: input
+    id: owner_email
+    attributes:
+      label: Which email address should we invite as the team owner?
+      description: We'll use this to send the Tuple invite.
+      placeholder: jane@example.com
+    validations:
+      required: true
+
+  - type: textarea
+    id: oss_links
+    attributes:
+      label: Where can we find the work your open source team is producing?
+      description: GitHub, GitLab, or Bitbucket links, please (repos/orgs).
+      placeholder: |
+        https://github.com/pytorch-fdn/tac
+        https://github.com/<org>/<repo>
+    validations:
+      required: true
+
+  - type: dropdown
+    id: team_size
+    attributes:
+      label: How many people are on your open source core team?
+      options:
+        - 1
+        - 2–3
+        - 4–6
+        - 7–10
+        - 11+
+    validations:
+      required: true
+
+  - type: input
+    id: current_pairing
+    attributes:
+      label: What does your team currently use for pairing?
+      placeholder: e.g., Zoom, VS Code Live Share, Tmux, None
+    validations:
+      required: false
+
+  - type: textarea
+    id: planned_use
+    attributes:
+      label: How are you planning to use Tuple for your open source team?
+      description: The more detail, the better!
+      placeholder: e.g., Regular triage sessions, mentoring new contributors, release coordination, remote pairing on PRs, etc.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: eligibility
+    attributes:
+      label: Eligibility confirmation
+      options:
+        - label: Our primary OSS repo(s) have ≥ 100 stars (or equivalent community adoption).
+          required: true
+        - label: Our usage will be for open source work (non-commercial).
+          required: true
+        - label: We agree that the team owner email above may receive the Tuple invite.
+          required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else we should know?
+      placeholder: Deadlines, special requests, links to press/issues proving adoption, etc.
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        **Submit your application** using the button below. A TAC reviewer will follow up in this thread.
