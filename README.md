@@ -3,9 +3,10 @@ The PyTorch Technical Advisory Council (TAC) serves as the technical governing b
 
 ## Meetings
 
-* The PyTorch TAC meetings are open to everyone.  You can see the calendar and receive an invite to [join the meetings via zoom here](https://zoom-lfx.platform.linuxfoundation.org/meeting/99880407255?password=35e75f4d-474c-48ec-ae73-2add1f05bd4f). 
+* The PyTorch TAC meetings are open to everyone.  You can see the calendar and receive an invite to [join the meetings via zoom here](https://zoom-lfx.platform.linuxfoundation.org/meeting/99880407255?password=35e75f4d-474c-48ec-ae73-2add1f05bd4f).
+* Have a topic in mind? Add it to the [TAC Agenda Project]([url](https://github.com/orgs/pytorch-fdn/projects/16/views/1)) 
 * The TAC meets the second Tuesday of every month at 10am EST.
-* Meetings are recorded while Notes and recordings are [publicly available](https://lists.pytorch.org/g/tac/messages).
+* Meetings are recorded while notes and recordings are [publicly available](https://lists.pytorch.org/g/tac/messages).
 
 ## Communication
 
