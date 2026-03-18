@@ -13,7 +13,7 @@ To join, please:
 
 
 ## Meetings
-* Meetings are held twice a month.
+* Meetings are held once a month - [link to join](https://zoom-lfx.platform.linuxfoundation.org/meeting/98351521779?password=20e37f67-9865-4023-961c-4c5925c1998a).  
 * Review discussions are part of the [PyTorch Ecosystem](https://github.com/pytorch-fdn/ecosystem).
 
 ## Communication
