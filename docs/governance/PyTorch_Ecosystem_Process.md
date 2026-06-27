@@ -112,7 +112,7 @@ The status of a project in the Ecosystem is either active or retired. Only activ
 
 Once a project is approved, the 
 
-* Provide an icon for the project into this folder https://github.com/pytorch-fdn/landscape/tree/main/hosted\_logos
+* Provide an icon for the project into this folder https://github.com/pytorch-fdn/landscape/tree/main/hosted_logos
 
 * Enable two-factor authentication for all members of the project’s GitHub org.
 
