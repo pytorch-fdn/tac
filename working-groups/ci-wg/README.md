@@ -11,12 +11,13 @@ Current working group members, in alphabetical order, are:
 
 * Andrea Frittoli, IBM
 * Andrey Talman, Meta
+* Balaji Ethirajulu, Linux Foundation
 * Casey Gerena, Amazon
 * Elias Uriegas, Meta
 * Jean Schmidt, Meta
 * Jeremy Eder, Red Hat
+* Mick Tarsel, Linux Foundation
 * Mohan Gandhi, Amazon
-* Balaji Ethirajulu, Linux Foundation
 * Nikita Shulga, Meta
 * Piotr Bialecki, NVIDIA
 * Rudy Giger, Linux Foundation (Lead)
