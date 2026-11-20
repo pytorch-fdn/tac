@@ -23,7 +23,8 @@ Current working group members, in alphabetical order, are:
 * Rudy Giger, Linux Foundation (Lead)
 * Thanh Ha, Linux Foundation (Lead)
 * Wei Wang, NVIDIA
-* Xiao Wang, NVIDIA
+* Ting Lu, NVIDIA
+* FrenchBen B, NVIDIA
 * Zain Rizvi, Meta
 
 
